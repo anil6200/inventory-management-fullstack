@@ -65,3 +65,34 @@ To import:
 MongoDB Compass → Select DB → Import JSON → choose file
 
 #Demo Credentials are also available in RootFolder
+
+---
+
+## 📡 API Endpoints
+
+### 🔐 Auth Routes
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| `POST` | `/api/auth/register` | Register a new user |
+| `POST` | `/api/auth/login` | Login user & return JWT token |
+
+---
+
+### 📦 Product Routes (Protected)
+
+> *(Requires Authorization Header → `Bearer <token>`)*
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| `GET` | `/api/products` | Get all products |
+| `GET` | `/api/products/:id` | Get single product |
+| `POST` | `/api/products` | Create new product |
+| `PUT` | `/api/products/:id` | Update product |
+| `DELETE` | `/api/products/:id` | Delete product |
+
+---
+
+### 🧪 Example Auth Header
+
+Authorization: Bearer <your_token_here>
