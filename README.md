@@ -86,7 +86,6 @@ MongoDB Compass → Select DB → Import JSON → choose file
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | `GET` | `/api/products` | Get all products |
-| `GET` | `/api/products/:id` | Get single product |
 | `POST` | `/api/products` | Create new product |
 | `PUT` | `/api/products/:id` | Update product |
 | `DELETE` | `/api/products/:id` | Delete product |
