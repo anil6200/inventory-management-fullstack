@@ -9,23 +9,11 @@ const app = express();
 
 // Middlewares
 app.use(express.json());
-const cors = require("cors");
-
-app.use(
-  cors({
-    origin: "https://inventory-management-fullstack-dhkg.vercel.app",
-    credentials: true,
-    methods: ["GET", "POST", "PUT", "DELETE"],
-    allowedHeaders: ["Content-Type", "Authorization"],
-  })
-);
-
-app.options("*", cors());
+app.use(cors());
 
 
 
-
-app.get('/',(req,res)=>{
+app.get('/', (req, res) => {
     res.send("Server is perfectly working")
 })
 
@@ -46,7 +34,4 @@ app.use((err, req, res, next) => {
 
 const PORT = process.env.PORT || 8000;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
-
-
-module.exports = app;
 
