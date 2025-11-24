@@ -9,7 +9,19 @@ const app = express();
 
 // Middlewares
 app.use(express.json());
-app.use(cors());
+const cors = require("cors");
+
+app.use(
+  cors({
+    origin: "https://inventory-management-fullstack-dhkg.vercel.app",
+    credentials: true,
+    methods: ["GET", "POST", "PUT", "DELETE"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+  })
+);
+
+app.options("*", cors());
+
 
 
 
