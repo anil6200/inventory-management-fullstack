@@ -34,7 +34,7 @@ exports.updateProduct = asyncHandler(async (req, res) => {
     res.status(200).json(updatedProduct);
 });
 
-// DELETE product
+// DELETE product 
 
 exports.deleteProduct = asyncHandler(async (req, res) => {
     const product = await Product.findById(req.params.id);
