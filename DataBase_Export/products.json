@@ -1,0 +1,425 @@
+[{
+  "_id": {
+    "$oid": "6922eda0faf686dd1be7683d"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "Apple Iphone 15",
+  "description": "Latest iphone with A17 chip",
+  "price": 120000,
+  "category": "Electronic",
+  "brand": "Apple",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763896735/uploads/images/1763896727843-iphone%2015.jpg.jpg",
+    "public_id": "uploads/images/1763896727843-iphone 15.jpg"
+  },
+  "stock": 5,
+  "createdAt": {
+    "$date": "2025-11-23T11:18:56.150Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-23T11:18:56.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923311bfaf686dd1be76874"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "Tshirt",
+  "description": "Half sleeve Tshirt",
+  "price": 1000,
+  "category": "Fashion",
+  "brand": "zara",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763914010/uploads/images/1763914006949-ryan-hoffman-6Nub980bI3I-unsplash.jpg.jpg",
+    "public_id": "uploads/images/1763914006949-ryan-hoffman-6Nub980bI3I-unsplash.jpg"
+  },
+  "stock": 50,
+  "createdAt": {
+    "$date": "2025-11-23T16:06:51.206Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-23T16:06:51.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692335cffaf686dd1be76889"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "Smart Tv",
+  "description": "It is very best Smart tv",
+  "price": 18000,
+  "category": "Electronics",
+  "brand": "Sony",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763915214/uploads/images/1763915207864-nicolas-j-leclercq-qDLLP0yP7FU-unsplash.jpg.jpg",
+    "public_id": "uploads/images/1763915207864-nicolas-j-leclercq-qDLLP0yP7FU-unsplash.jpg"
+  },
+  "stock": 4,
+  "createdAt": {
+    "$date": "2025-11-23T16:26:55.503Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-23T18:12:23.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69234f49faf686dd1be768f4"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "Sports Shoe",
+  "description": "This is Premium level of shoe",
+  "price": 1000,
+  "category": "Fashion",
+  "brand": "Nike",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763921736/uploads/images/1763921690671-ryan-waring-164_6wVEHfI-unsplash.jpg.jpg",
+    "public_id": "uploads/images/1763921690671-ryan-waring-164_6wVEHfI-unsplash.jpg"
+  },
+  "stock": 50,
+  "createdAt": {
+    "$date": "2025-11-23T18:15:37.142Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-23T18:15:37.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923546bcda4d52bb80865db"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "Macbook Air M1",
+  "description": "This is Apple Macbook Air With M1 chip",
+  "price": 90000,
+  "category": "Electronics",
+  "brand": "Apple",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763923049/uploads/images/1763922968180-iewek-gnos-hhUx08PuYpc-unsplash.jpg.jpg",
+    "public_id": "uploads/images/1763922968180-iewek-gnos-hhUx08PuYpc-unsplash.jpg"
+  },
+  "stock": 4,
+  "createdAt": {
+    "$date": "2025-11-23T18:37:31.190Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-23T18:37:31.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923e3cf8ff5197b5a2f326d"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "Gym Equipment",
+  "description": "This is best gym equipment combo",
+  "price": 699,
+  "category": "fitness",
+  "brand": "fuark",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763959759/uploads/images/1763959665364-kelly-sikkema-IZOAOjvwhaM-unsplash.jpg.jpg",
+    "public_id": "uploads/images/1763959665364-kelly-sikkema-IZOAOjvwhaM-unsplash.jpg"
+  },
+  "stock": 10,
+  "createdAt": {
+    "$date": "2025-11-24T04:49:19.121Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T04:49:19.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923e49d8ff5197b5a2f3274"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "Gaming Mouse",
+  "description": "Anstesports Gaming Mouse for Pro gammers",
+  "price": 399,
+  "category": "Electronics",
+  "brand": "Antesports",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763959966/uploads/images/1763959956311-mouse.jpg.jpg",
+    "public_id": "uploads/images/1763959956311-mouse.jpg"
+  },
+  "stock": 15,
+  "createdAt": {
+    "$date": "2025-11-24T04:52:45.052Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T04:52:45.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923e54b8ff5197b5a2f3279"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "KeyBoard",
+  "description": "Ansteports gaming mechanical Keyboard",
+  "price": 8999,
+  "category": "Electronics",
+  "brand": "Antesports",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763960140/uploads/images/1763960054525-keyboard.jpg.jpg",
+    "public_id": "uploads/images/1763960054525-keyboard.jpg"
+  },
+  "stock": 10,
+  "createdAt": {
+    "$date": "2025-11-24T04:55:39.092Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T04:56:06.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923e5dc8ff5197b5a2f3283"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "HeadPhone",
+  "description": "Boat Headphone fully bass boosted drivers",
+  "price": 799,
+  "category": "Electronic",
+  "brand": "Boat",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763960286/uploads/images/1763960250241-headphone.jpg.jpg",
+    "public_id": "uploads/images/1763960250241-headphone.jpg"
+  },
+  "stock": 50,
+  "createdAt": {
+    "$date": "2025-11-24T04:58:05.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T04:58:05.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923e6848ff5197b5a2f3288"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "Full sleeve Shirt",
+  "description": "Zara full sleeve Shirt for mens",
+  "price": 599,
+  "category": "fashion",
+  "brand": "zara",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763960454/uploads/images/1763960385750-shirts.jpg.jpg",
+    "public_id": "uploads/images/1763960385750-shirts.jpg"
+  },
+  "stock": 50,
+  "createdAt": {
+    "$date": "2025-11-24T05:00:52.945Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T05:00:52.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923ec7f37952f0fd3103525"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "Books",
+  "description": "Stories Books",
+  "price": 799,
+  "category": "Study",
+  "brand": "cbse",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763961984/uploads/images/1763961976528-tom-hermans-9BoqXzEeQqM-unsplash.jpg.jpg",
+    "public_id": "uploads/images/1763961976528-tom-hermans-9BoqXzEeQqM-unsplash.jpg"
+  },
+  "stock": 50,
+  "createdAt": {
+    "$date": "2025-11-24T05:26:23.265Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T05:26:23.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923ed5a37952f0fd310352d"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "Perfume",
+  "description": "This is hard Fragnance perfume",
+  "price": 499,
+  "category": "fashion",
+  "brand": "Wildstone",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763962203/uploads/images/1763962198809-jeroen-den-otter-2b0JeJTEclQ-unsplash.jpg.jpg",
+    "public_id": "uploads/images/1763962198809-jeroen-den-otter-2b0JeJTEclQ-unsplash.jpg"
+  },
+  "stock": 10,
+  "createdAt": {
+    "$date": "2025-11-24T05:30:02.260Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T05:30:02.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923edd137952f0fd3103532"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "Mackbook Monitor",
+  "description": "Apple Macbook Monitor with 4k panel",
+  "price": 44000,
+  "category": "Electronics",
+  "brand": "Apple",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763962322/uploads/images/1763962317948-nicolas-gonzalez-183F_vNaN8A-unsplash.jpg.jpg",
+    "public_id": "uploads/images/1763962317948-nicolas-gonzalez-183F_vNaN8A-unsplash.jpg"
+  },
+  "stock": 20,
+  "createdAt": {
+    "$date": "2025-11-24T05:32:01.381Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T05:32:01.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923ee4c37952f0fd3103539"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "Samsung Galaxy S24",
+  "description": "Samsung Galaxy S24  with 256gb storage",
+  "price": 42000,
+  "category": "Electronics",
+  "brand": "Samsung",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763962445/uploads/images/1763962440313-dhruv-vishwakarma-a6cEFWcWRaM-unsplash.jpg.jpg",
+    "public_id": "uploads/images/1763962440313-dhruv-vishwakarma-a6cEFWcWRaM-unsplash.jpg"
+  },
+  "stock": 25,
+  "createdAt": {
+    "$date": "2025-11-24T05:34:04.553Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T05:34:04.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923eebe37952f0fd310353e"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "Magsafe",
+  "description": "Apple Magsafe charger support in iphone all models",
+  "price": 7000,
+  "category": "Electronics",
+  "brand": "Apple",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763962559/uploads/images/1763962554869-brandon-romanchuk-xpe7pyNmEbw-unsplash.jpg.jpg",
+    "public_id": "uploads/images/1763962554869-brandon-romanchuk-xpe7pyNmEbw-unsplash.jpg"
+  },
+  "stock": 30,
+  "createdAt": {
+    "$date": "2025-11-24T05:35:58.163Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T05:35:58.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923effe37952f0fd3103543"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "Camera",
+  "description": "Sony camera fully featuress loaded take pictures like Pro",
+  "price": 20000,
+  "category": "Electronics",
+  "brand": "Sony",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763962879/uploads/images/1763962874344-nordwood-themes-F3Dde_9thd8-unsplash.jpg.jpg",
+    "public_id": "uploads/images/1763962874344-nordwood-themes-F3Dde_9thd8-unsplash.jpg"
+  },
+  "stock": 20,
+  "createdAt": {
+    "$date": "2025-11-24T05:41:18.260Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T05:41:18.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923f0c437952f0fd3103548"
+  },
+  "user": {
+    "$oid": "69217c2bfcda1978099f176f"
+  },
+  "title": "Purse bag",
+  "description": "HandPurse bag for grils",
+  "price": 3000,
+  "category": "fashion",
+  "brand": "zara",
+  "thumbnail": {
+    "url": "https://res.cloudinary.com/dq1fhjeoj/image/upload/v1763963077/uploads/images/1763963071669-tamara-bellis-HY1fq4ZtLTE-unsplash.jpg.jpg",
+    "public_id": "uploads/images/1763963071669-tamara-bellis-HY1fq4ZtLTE-unsplash.jpg"
+  },
+  "stock": 20,
+  "createdAt": {
+    "$date": "2025-11-24T05:44:36.236Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T05:44:36.236Z"
+  },
+  "__v": 0
+}]
